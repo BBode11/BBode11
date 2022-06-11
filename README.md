@@ -1,5 +1,5 @@
 # 💫About Me :
-I am Brandon Bode, a Full Stack Developer who graduated from the Northwestern Michigan College Computer Information Technology - Developer Program.
+I am Brandon Bode, a Full Stack Developer who graduated from Northwestern Michigan College Computer Information Technology - Developer Program.
 I'm currently working on advancing my development skills for both client and server software.
 I'm looking to expand my knowledge and familiarity in different languages and frameworks.
 
