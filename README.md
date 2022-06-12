@@ -2,7 +2,12 @@
 :technologist: I am Brandon Bode, a Software Developer who graduated from Northwestern Michigan College's CIT - Developer Program.<br>
 :rocket: I'm currently working on advancing my development skills for both client and server software.<br>
 :books: I'm looking to expand my knowledge and familiarity in different languages and frameworks.<br>
-:man_scientist: Something Interesting: I also have a Bachelors degree in Biology with a concentration in pre-medicine!
+:man_scientist: Something Interesting: I also have a Bachelors degree in Biology with a concentration in pre-medicine!<br>
+:pencil2: Degrees and Certifications:
+- Associate in Applied Science - Computer Information Technology - Developer
+- Bachelor of Arts degree in Biology
+- Certiport [IT Specialist in Software Development](https://www.credly.com/badges/6497a233-4d1d-4759-8564-2c6b4daa3199/linked_in)
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonbode11) 
